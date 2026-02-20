@@ -1,4 +1,4 @@
-# Summer-Hack-Club-Project-2
+# Summer-Hack-Club-Project
 
 
 # NOTE THAT THE BOT AND DASHBOARD DO NOT WORK
