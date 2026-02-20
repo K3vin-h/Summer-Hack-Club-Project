@@ -1,7 +1,7 @@
 # Summer-Hack-Club-Project-2
 
 
-#NOTE THAT THE BOT AND DASHBOARD DO NOT WORK
+# NOTE THAT THE BOT AND DASHBOARD DO NOT WORK
 
 🎉 Giveaway Bot with Dashboard | Discord.js + MongoDB
 A powerful and customizable Discord giveaway bot built with Discord.js v14 and MongoDB, featuring advanced role requirements and a user-friendly web dashboard.
